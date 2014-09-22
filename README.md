@@ -1,7 +1,7 @@
 Twitter_frontend
 ================
 
-**Objectives
+## Objectives
 
 Re-create the twitter front end using CSS, SCSS, HTML5 and Javascript for the infinite scroll.
 
@@ -19,5 +19,5 @@ bundle
 rackup
 ```
 
-open your browser and go to [localhost:9292](http://localhost:9292)
+Open your browser and go to [localhost:9292](http://localhost:9292)
 
